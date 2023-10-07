@@ -1,0 +1,14 @@
+PartB
+Run the code as follows:
+
+gcc lab4_B.c -o lab4_B.o
+./lab4_B.o
+
+PartC
+Run the code as follows
+
+gcc lab4_C.c -o lab4_C.o
+./lab4_C.o n d
+
+In the above lines for Part C, n = number of elements in the AP and d = common difference of the AP.
+NOTE: Only input two integer arguements (n and d) otherwise the code will fail to run.
