@@ -14,11 +14,11 @@ Compile the program using `gcc`:
 
 ```sh
 gcc -o lab5_A.o lab5_A.c
-
+```
 ## Running the Program
-
+```sh
 ./lab5_A.o <n> <d>
-
+```
 # Running lab5_B.c
 
 This guide will help you compile and run the C program `lab5_B.c` using `gcc` and provide values for two variables, `n` and `d`.
@@ -35,10 +35,10 @@ Compile the program using `gcc`:
 
 ```sh
 gcc -o lab5_A.o lab5_.c
-
+```
 ## Running the Program
-
+```sh
 ./lab5_A.o <n> <d>
-
+```
 
 
