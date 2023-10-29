@@ -1,4 +1,3 @@
-```markdown
 # Birthday Probability Estimation
 
 This C program (lab7_1.c) uses a multi-threaded Monte Carlo simulation to estimate the probability of two students in a class having the same birthday. It demonstrates the use of pthreads and a shared mutex for synchronization.
