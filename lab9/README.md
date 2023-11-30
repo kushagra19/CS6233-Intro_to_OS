@@ -25,7 +25,7 @@ Run the producer program with the desired parameters (n and d):
 ```
 -Consumer:
 Run the consumer program in a separate terminal:
-```
+```bash
 ./lab9_consumer <n> <d> 
 ```
 Note: Ensure that you use the same values of n and d for both the producer and consumer.
