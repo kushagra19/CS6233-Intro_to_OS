@@ -1,0 +1,5 @@
+set term qt persist font 'Arial,12'
+set title 'Page Faults vs Number of Frames'
+set xlabel 'Number of Frames'
+set ylabel 'Number of Page Faults'
+plot for [i=0:12] 'page_faults_data.dat' index i using 1:2 with linespoints pointtype 7 title '(Page Fault, Frames)'
